@@ -5,7 +5,7 @@ An application that combines the uses of Tinder and LinkedIn.  By being able to 
 <a href="https://swipefair.herokuapp.com/login">LIVE LINK HERE</a>
 
 # Repo to BackEnd
-<a href="https://github.com/sdkag/flask-react-app">LINK TO BACKEND</a>
+<a href="https://github.com/senyoagawu/swipefair_api">LINK TO BACKEND</a>
 
 # Technologies
 - Front-end development
@@ -13,7 +13,7 @@ An application that combines the uses of Tinder and LinkedIn.  By being able to 
     - CSS
     - HTML
     - JavaScript
-  
+
  - Back-end development
     - Python
     - Flask
